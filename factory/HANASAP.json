@@ -1,0 +1,9 @@
+{
+	"name": "HANASAP",
+	"location": "chilecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "537be357-6b76-4988-8a9f-ed5a76b4e881",
+		"tenantId": "356c016b-a046-40fc-abcb-1008051c1f08"
+	}
+}
